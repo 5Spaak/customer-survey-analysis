@@ -33,4 +33,4 @@ KPI's REQUIREMENT
 2. Customer Satisfaction (CSAT) : Pourcentage of customer satisfaction 
 3. Average Rating of product & shop & Staff : Average ratings for product quality, variety, staff engagement and store environment
 
-# Excel Dashboard - [Customers Analysis](Customer.png)
+# Excel Dashboard - ![Alt text](Customer.png "a title")
